@@ -1,16 +1,11 @@
-### Hi there 👋
+<h2> Hi, I'm UltramanGaia!</h2>
+<p>
+  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=UltramanGaia&show_icons=true&hide_border=true&hide=prs&theme=buefy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltramanGaia&layout=compact&hide_border=true&theme=buefy&show_icons=true">
+</p>
 
-<!--
-**UltramanGaia/UltramanGaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ****
+ ## Anemone's Link
+- ⭐️ Blog： https://ultramangaia.github.io/
+- ⭐️ Mail： 3213359017#qq.com
+-  -->
